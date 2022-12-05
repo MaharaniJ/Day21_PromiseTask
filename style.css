@@ -1,0 +1,55 @@
+
+.container-fluid{
+
+    display: grid; 
+    align-content: auto;
+    margin: 2px;
+    width: 700px;    
+    margin-top: 40px;
+    margin-left: 200px;
+}
+  
+body{
+     background-image: url(https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+     background-repeat:no-repeat;
+}
+
+.weatherCard{
+     display: grid;
+     align-content: center;
+     
+	 width: 30%;
+	 text-align: center;
+
+     transition: 0.3s;
+     box-shadow: 10px 5px 5px grey;
+}
+
+.btn{
+      width:120px;
+      align-content: center;
+      margin-left: 22px
+}
+
+.cityNames{
+    width: 40px;
+}
+
+.card-text{
+    text-align: center;
+    font-size: larger;
+    color: blue;
+}
+
+.card{
+     margin-left: 20px;
+     
+}
+
+.navbar{
+    margin-left: 26px;
+    font-size: larger;
+    border-radius: 20px;
+}
+
+
