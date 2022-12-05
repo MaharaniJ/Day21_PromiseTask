@@ -1,2 +1,1 @@
-# Day21_PromiseTask
-WeatherMap
+# Day21_PromiseTask - WeatherMap
